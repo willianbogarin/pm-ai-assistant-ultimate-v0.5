@@ -1,0 +1,16 @@
+{
+  "name": "product-management-extended",
+  "description": "Comprehensive product management knowledge combining Anthropic's product-management skills with Dean Peters' Product-Manager-Skills library.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Product Management Team"
+  },
+  "skills": [
+    {
+      "path": "../product-management/skills"
+    },
+    {
+      "path": "../external/dean-peters/skills"
+    }
+  ]
+}
