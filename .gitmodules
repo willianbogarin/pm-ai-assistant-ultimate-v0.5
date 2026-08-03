@@ -1,3 +1,6 @@
 [submodule "external/dean-peters"]
 	path = external/dean-peters
 	url = https://github.com/deanpeters/Product-Manager-Skills
+[submodule "external/humanizer"]
+	path = external/humanizer
+	url = https://github.com/blader/humanizer
